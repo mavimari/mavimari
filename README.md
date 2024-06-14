@@ -2,7 +2,7 @@
 
 Meu nome é Maria Vitória 
 
-- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou cursando o último ano do ensino médio 
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
